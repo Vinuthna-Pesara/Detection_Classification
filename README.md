@@ -2,7 +2,7 @@
 This project focuses on waste object classification and detection using multiple deep learning models.
   - Waste Detection using a trained Faster R-CNN model for precise localization.
   - Waste Classification into 4 major categories using custom-trained deep learning models.
-# Key Components
+## Key Components
   - Waste Detection:
     - Implemented using a custom-trained Faster R-CNN model for precise waste localization on images.
     - Also experimented with YOLOv8 for faster, real-time capable detection.
